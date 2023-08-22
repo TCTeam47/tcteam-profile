@@ -5905,7 +5905,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Facebook');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.facebook.com/info.TCteam', '_blank');
+        window.open('https://www.facebook.com/info.TCStudio', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
@@ -6017,7 +6017,7 @@ textDiv.id = "text";
 var welcomeText = document.createElement("p");
 welcomeText.style.fontFamily = "Quicksand";
 welcomeText.style.fontSize = "20px";
-welcomeText.textContent = "Designed By khánh Đăng =))";
+welcomeText.textContent = "Designed By TCStudio ";
 welcomeText.style.marginBottom = "10px"; // Khoảng cách dưới 10px
 
 
@@ -6025,7 +6025,7 @@ welcomeText.style.marginBottom = "10px"; // Khoảng cách dưới 10px
 var continueText = document.createElement("p");
 continueText.style.fontFamily = "Quicksand";
 continueText.style.fontSize = "15px";
-continueText.textContent = "- Click to continue -";
+continueText.textContent = "- Ấn Để Tiếp Tục -";
 
 
 
