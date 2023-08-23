@@ -5892,7 +5892,7 @@ show_date_time();
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Telegram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://t.me/Minhtricker23', '_blank');
+        window.open('https://discord.gg/HVWbtzTsyB', '_blank');
     });
 });
 
@@ -6017,7 +6017,7 @@ textDiv.id = "text";
 var welcomeText = document.createElement("p");
 welcomeText.style.fontFamily = "Quicksand";
 welcomeText.style.fontSize = "20px";
-welcomeText.textContent = "Designed By TCStudio ";
+welcomeText.textContent = "Designed By TCStudio";
 welcomeText.style.marginBottom = "10px"; // Khoảng cách dưới 10px
 
 
